@@ -1,3 +1,3 @@
 # data-geist
 
-This repo will host some data related important concepts and material 
+This repo will host some data related content and concepts. 
